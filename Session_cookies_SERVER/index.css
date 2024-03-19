@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+body{
+    text-align: center;
+}
+table,
+tr,
+th,
+td{
+    border: 1px solid gray;
+    padding: 1.2rem;
+
+}
+
+h2{
+    text-align: center;
+    width: 20%;
+    margin: 20px auto;
+    padding: 1.2rem;
+    background: rgb(147,57,57);
+    box-shadow: 0px 0px 10px rgb(147,57,57);
+    border-radius: 15px;
+}
+
+th{
+    background: #ccc;
+}
